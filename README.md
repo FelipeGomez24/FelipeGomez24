@@ -14,7 +14,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/tu-usuario](https://www.linkedin.com/in/felipe-gomez-b733152a4/))
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.gomez.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeGomez24)
 [![Profile Views](https://komarev.com/ghpvc/?username=FelipeGomez24&color=39ff14&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/FelipeGomez24)
