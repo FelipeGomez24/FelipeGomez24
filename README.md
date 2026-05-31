@@ -7,10 +7,6 @@
 
   <br/><br/>
 
-  <!-- ===== CONTADOR DE VISITAS ===== -->
-  <img src="https://komarev.com/ghpvc/?username=FelipeGomez24&style=for-the-badge&color=39ff14&label=PROFILE+VIEWS&abbreviated=true" alt="Profile Views"/>
-  <br/><br/>
-
   <!-- ===== REDES SOCIALES — EDITA LAS URLs AQUÍ ===== -->
   <a href="https://www.linkedin.com/in/felipe-gomez-b733152a4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -38,14 +34,19 @@
       <p>When I'm not writing code, you can find me benchmarking hardware setups or playing competitive games.</p>
       <blockquote><em>"Talk is cheap. Show me the code."</em> — Linus Torvalds</blockquote>
       <h4>⚡ Talking about my Skills:</h4>
-      <ul>
-        <li>💻 <strong>Domains:</strong> Full-Stack Web Development, RESTful APIs.</li>
-        <li>🛠 <strong>Languages:</strong> TypeScript, JavaScript, Python.</li>
-        <li>🌐 <strong>Frontend:</strong> React, HTML5, CSS3, TailwindCSS.</li>
-        <li>⚙️ <strong>Backend & DB:</strong> FastAPI, Node.js, PostgreSQL.</li>
-        <li>🔧 <strong>Tools:</strong> Git, Docker, Linux, VSCode.</li>
-        <li>📫 <strong>Contact me:</strong> felipe.gomez.dev@gmail.com</li>
-      </ul>
+      <ul style="list-style-type: none; padding-left: 0;">
+  <li>🌱 <strong>I'm currently learning ...</strong>
+    <ul>
+      <li>Advanced automation flows (RPA)</li>
+      <li>System Architecture</li>
+      <li>n8n - Automatization</li>
+    </ul>
+  </li>
+  <li>🤖 <strong>I'm looking forward to collaborate on open source projects.</strong></li>
+  <li>💬 <strong>Ask me about anything, I am happy to help!</strong></li>
+  <li>⚡ <strong>Outside tech,</strong> 🎮 I love playing competitive videogames (CS2, Valorant, Rocket League), 💻 building and benchmarking custom PC setups, and ⚽ cheering for FC Barcelona.</li>
+  <li>📫 <strong>Reach out to me at:</strong> <a href="mailto:felipe.gomez.dev@gmail.com">felipe.gomez.dev@gmail.com</a></li>
+</ul>
     </td>
     <td align="center" width="30%">
       <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200" alt="Hollow Knight GIF"/>
@@ -90,7 +91,7 @@
   <table width="100%">
     <tr>
       <td width="50%" valign="top">
-        <h4>🤖 RoboGraph (Proyecto RPA)</h4>
+        <h4>)</h4>
         <p>Full-stack automation system designed for student retentions and certifications.</p>
         <p><strong>Tech:</strong> React, TypeScript, FastAPI, PostgreSQL, Microsoft SSO.</p>
       </td>
