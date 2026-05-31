@@ -19,9 +19,35 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/></td>
+    <td>
+      <ul>
+        <li>Hey there, I am <strong>Felipe Gómez*</strong></li>
+        A passionate **Junior Full-Stack Developer** based in Bogotá, Colombia 🇨🇴. I'm an enthusiast of clean architecture and building highly efficient systems. I'm currently looking for opportunities to join junior roles, internships, or open-source projects where I can solve complex problems and keep evolving professionally. When I'm not writing code, you can find me benchmarking hardware setups or playing competitive games.
+      </ul>
+      <h4>Connect with me:</h4>
+      <a href="mailto:tahanimachowdhury@gmail.com"><img src="https://img.icons8.com/dusk/40/000000/new-post.png"/></a>
+      <a href="https://tahanima.github.io/"><img src="https://img.icons8.com/dusk/40/000000/internet--v1.png"/></a>
+      <a href="https://twitter.com/TahanimaC"><img src="https://img.icons8.com/dusk/40/000000/twitter.png"/></a>
+      <a href="https://www.linkedin.com/in/tahanima-chowdhury/"><img src="https://img.icons8.com/dusk/40/000000/linkedin.png"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <p><i>If you appreciate what I do and wish to support my work, you can consider buying me a coffee ☕</i></p>
+      <a href="https://www.buymeacoffee.com/tahanima" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+    </td>
+  </tr>
+</table>
 
-Hi! I'm **Felipe Gómez**, a passionate **Junior Full-Stack Developer** based in Bogotá, Colombia 🇨🇴. I'm an enthusiast of clean architecture and building highly efficient systems. I'm currently looking for opportunities to join junior roles, internships, or open-source projects where I can solve complex problems and keep evolving professionally. When I'm not writing code, you can find me benchmarking hardware setups or playing competitive games.
+
+
+
+
+
+
 
 > *"Talk is cheap. Show me the code."* — Linus Torvalds
 
