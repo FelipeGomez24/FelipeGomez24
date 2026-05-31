@@ -10,7 +10,6 @@
 
 ![](https://img.shields.io/badge/Location-Bogot%C3%A1%2C_Colombia-39FF14?style=for-the-badge)
 ![](https://img.shields.io/badge/English-B2-39FF14?style=for-the-badge)
-![](https://img.shields.io/badge/Status-Open_to_work-39FF14?style=for-the-badge)
 
 <br/>
 
