@@ -4,9 +4,13 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=React+%7C+TypeScript+%7C+FastAPI+%7C+PostgreSQL;English+B2+%E2%80%94+PRs%2C+docs+%26+standups%2C+no+problem;Always+building%2C+always+learning+%F0%9F%9A%80;Open+to+Junior+Roles+%26+Internships+%F0%9F%92%BC" alt="Typing SVG"/>
-
+  
+<br>
+  
   ![Location](https://img.shields.io/badge/Location-Bogot%C3%A1%2C_Colombia-39FF14?style=for-the-badge)
   ![English Level](https://img.shields.io/badge/English-B2-39FF14?style=for-the-badge)
+
+<br>
 
   <!-- ===== REDES SOCIALES — EDITA LAS URLs AQUÍ ===== -->
   
